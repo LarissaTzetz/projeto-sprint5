@@ -13,3 +13,5 @@ Este é um aplicativo web interativo criado com Streamlit para explorar dados de
 ```bash
 streamlit run app.py
 ```
+## Link do Aplicativo
+O aplicativo está disponível em: https://projeto-sprint5-2llj.onrender.com
